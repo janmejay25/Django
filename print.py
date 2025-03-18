@@ -1,3 +1,17 @@
+# pip install django 
+
+# django-admin startproject myproject
+# cd myproject  
+# python manage.py runserver
+# python manage.py makemigrations myapp 
+# python manage.py migrate
+# python manage.py createsuperuser
+# pass 12345 username janmejay25 for superuser
+# python manage.py startapp myapp  # create app
+
+
+
+
 print("hello world")
 #seperator
 print("hello", "world", sep="***")
@@ -60,3 +74,7 @@ for row in range(5):
 a= int(input("Enter the number: "))
 for i in range(1,11):
     print(a,"x",i,"=",a*i)
+
+
+
+
